@@ -120,4 +120,7 @@ public class BoardController {
         return "message";
         //return "redirect:/board/list";
     }
+
+    //git test
+
 }
