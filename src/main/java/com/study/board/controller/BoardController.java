@@ -121,6 +121,5 @@ public class BoardController {
         //return "redirect:/board/list";
     }
 
-    //git test
 
 }
